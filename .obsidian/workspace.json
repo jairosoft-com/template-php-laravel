@@ -11,10 +11,14 @@
             "id": "2b60c98a143df9be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "prds/003_cleanup/reqs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "reqs"
             }
           }
         ]
@@ -164,6 +168,18 @@
   },
   "active": "2b60c98a143df9be",
   "lastOpenFiles": [
+    "prds/003_cleanup/prd.md",
+    "prds/003_cleanup/reqs.md",
+    "ai_docs/tech_specs.md",
+    "prds/003_cleanup",
+    "storage/debugbar/01K4ET04XB0DT1P7R46R3G3EEF.json",
+    "storage/debugbar",
+    "ai_docs/project_specs.md",
+    "ai_docs/brdprd_specs.md",
+    "CONTRIBUTING.md",
+    "README.md",
+    "app/Console/Commands",
+    "app/Console",
     "prds/001_pest/us-003/todo.md",
     "prds/002_pest/us-003/todo.md",
     "prds/002_pest/us-003/tech-003.md",
@@ -181,24 +197,12 @@
     "prds/001_pest/us-001/todo.md",
     "prds/001_pest/us-002/tech-002.md",
     "prds/001_pest/us-001/tech-001.md",
-    "ai_docs/brdprd_specs.md",
-    "ai_docs/tech_specs.md",
-    "ai_docs/project_specs.md",
     "ai_docs/Human-AI Technical Implementation Plan Template.md",
     "prds/001_pest/us-003/tech-003.md",
-    "vendor/pest-plugins.json",
-    "vendor/phpunit/phpunit/src/Metadata/Covers.php",
-    "vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php",
-    "vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php",
-    "vendor/phpunit/phpunit/src/Metadata/UsesDefaultClass.php",
     "vendor/composer/454d6560/pestphp-pest-plugin-mutate-e10dbdc/LICENSE.md",
     "vendor/composer/69aceb7f/theofidry-cpu-core-counter-db9508f/README.md",
     "vendor/composer/69aceb7f/theofidry-cpu-core-counter-db9508f/LICENSE.md",
     "prds/001_pest/todo.md",
-    "prds/001_pest/us-003/tech_001.md",
-    "prds/001_pest/us-002/tech_001.md",
-    "prds/001_pest/us-001/tech_001.md",
-    "prds/001_pest/prd.md",
-    "prds/001_compliance/req-010/req-010.md"
+    "prds/001_pest/us-003/tech_001.md"
   ]
 }
