@@ -11,14 +11,10 @@
             "id": "2b60c98a143df9be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prds/001_compliance/req-010/req-010.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "req-010"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prds/001_compliance/req-010/req-010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for req-010"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prds/001_compliance/req-010/req-010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from req-010"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prds/001_compliance/req-010/req-010.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of req-010"
+              "title": "Outline"
             }
           }
         ]
@@ -171,41 +164,41 @@
   },
   "active": "2b60c98a143df9be",
   "lastOpenFiles": [
-    "prds/001_compliance/req-009/todo.md",
-    "CONTRIBUTING.md",
-    "prds/001_compliance/req-009/req-009.md",
-    "_ide_helper.php",
-    "storage/framework/testing/disks/local",
-    "storage/framework/testing/disks",
-    "_ide_helper_models.php",
-    "database/migrations/2025_09_06_043952_create_permission_tables.php",
-    "config/scramble.php",
-    "config/data.php",
-    "config/permission.php",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/src/Support",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/src/RuleInferrers",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/third-party-packages.md",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/support-us.md",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/requirements.md",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/questions-issues.md",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/installation-setup.md",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/introduction.md",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/changelog.md",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/about-us.md",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/_index.md",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/UPGRADING.md",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/README.md",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/LICENSE.md",
-    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/CHANGELOG.md",
-    "vendor/composer/de4b41fe/phpDocumentor-TypeResolver-679e3ce/README.md",
-    "vendor/composer/6f402fcf/revoltphp-event-loop-09bf1bf/SECURITY.md",
-    "vendor/composer/c402dfee/dedoc-scramble-ff8fd42/README.md",
-    "vendor/composer/c402dfee/dedoc-scramble-ff8fd42/LICENSE.md",
-    "vendor/composer/c402dfee/dedoc-scramble-ff8fd42/CHANGELOG.md",
-    "vendor/composer/0e3f5dce/barryvdh-laravel-debugbar-f265cf5/readme.md",
-    "vendor/composer/0e3f5dce/barryvdh-laravel-debugbar-f265cf5/SECURITY.md",
-    "vendor/composer/0e3f5dce/barryvdh-laravel-debugbar-f265cf5/CHANGELOG.md",
-    "prds/001_compliance/req-008/todo.md",
-    "prds/001_compliance/req-008/req-008.md"
+    "prds/001_pest/us-003/todo.md",
+    "prds/002_pest/us-003/todo.md",
+    "prds/002_pest/us-003/tech-003.md",
+    "prds/002_pest/us-002/todo.md",
+    "prds/002_pest/us-002/tech-002.md",
+    "prds/002_pest/us-001/todo.md",
+    "prds/002_pest/us-001/tech-001.md",
+    "prds/002_pest/us-003",
+    "prds/002_pest/us-002",
+    "prds/002_pest/us-001",
+    "prds/002_pest/prd.md",
+    "prds/002_pest",
+    "tests/Pest.php",
+    "prds/001_pest/us-002/todo.md",
+    "prds/001_pest/us-001/todo.md",
+    "prds/001_pest/us-002/tech-002.md",
+    "prds/001_pest/us-001/tech-001.md",
+    "ai_docs/brdprd_specs.md",
+    "ai_docs/tech_specs.md",
+    "ai_docs/project_specs.md",
+    "ai_docs/Human-AI Technical Implementation Plan Template.md",
+    "prds/001_pest/us-003/tech-003.md",
+    "vendor/pest-plugins.json",
+    "vendor/phpunit/phpunit/src/Metadata/Covers.php",
+    "vendor/phpunit/phpunit/src/Metadata/Exception/AnnotationsAreNotSupportedForInternalClassesException.php",
+    "vendor/phpunit/phpunit/src/Metadata/Exception/ReflectionException.php",
+    "vendor/phpunit/phpunit/src/Metadata/UsesDefaultClass.php",
+    "vendor/composer/454d6560/pestphp-pest-plugin-mutate-e10dbdc/LICENSE.md",
+    "vendor/composer/69aceb7f/theofidry-cpu-core-counter-db9508f/README.md",
+    "vendor/composer/69aceb7f/theofidry-cpu-core-counter-db9508f/LICENSE.md",
+    "prds/001_pest/todo.md",
+    "prds/001_pest/us-003/tech_001.md",
+    "prds/001_pest/us-002/tech_001.md",
+    "prds/001_pest/us-001/tech_001.md",
+    "prds/001_pest/prd.md",
+    "prds/001_compliance/req-010/req-010.md"
   ]
 }
