@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "8a0713f27f7f3547",
+    "type": "split",
+    "children": [
+      {
+        "id": "94bb4bd55760c522",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b60c98a143df9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prds/001_compliance/req-010/req-010.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "req-010"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f0cf0d0c06878ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "de3e73efff090985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4dea4a2a9baec8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cea91b100f42a06e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8470aeab219199a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40983a1865afbe9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "695a614ddb4c2ebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af1e265ae8f77ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "prds/001_compliance/req-010/req-010.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for req-010"
+            }
+          },
+          {
+            "id": "b26f010493146ad2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "prds/001_compliance/req-010/req-010.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from req-010"
+            }
+          },
+          {
+            "id": "76e499e1d27607fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "af308aa14ccd7d8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "prds/001_compliance/req-010/req-010.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of req-010"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2b60c98a143df9be",
+  "lastOpenFiles": [
+    "prds/001_compliance/req-009/todo.md",
+    "CONTRIBUTING.md",
+    "prds/001_compliance/req-009/req-009.md",
+    "_ide_helper.php",
+    "storage/framework/testing/disks/local",
+    "storage/framework/testing/disks",
+    "_ide_helper_models.php",
+    "database/migrations/2025_09_06_043952_create_permission_tables.php",
+    "config/scramble.php",
+    "config/data.php",
+    "config/permission.php",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/src/Support",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/src/RuleInferrers",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/third-party-packages.md",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/support-us.md",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/requirements.md",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/questions-issues.md",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/installation-setup.md",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/introduction.md",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/changelog.md",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/about-us.md",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/docs/_index.md",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/UPGRADING.md",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/README.md",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/LICENSE.md",
+    "vendor/composer/602f2c79/spatie-laravel-data-6ec15bb/CHANGELOG.md",
+    "vendor/composer/de4b41fe/phpDocumentor-TypeResolver-679e3ce/README.md",
+    "vendor/composer/6f402fcf/revoltphp-event-loop-09bf1bf/SECURITY.md",
+    "vendor/composer/c402dfee/dedoc-scramble-ff8fd42/README.md",
+    "vendor/composer/c402dfee/dedoc-scramble-ff8fd42/LICENSE.md",
+    "vendor/composer/c402dfee/dedoc-scramble-ff8fd42/CHANGELOG.md",
+    "vendor/composer/0e3f5dce/barryvdh-laravel-debugbar-f265cf5/readme.md",
+    "vendor/composer/0e3f5dce/barryvdh-laravel-debugbar-f265cf5/SECURITY.md",
+    "vendor/composer/0e3f5dce/barryvdh-laravel-debugbar-f265cf5/CHANGELOG.md",
+    "prds/001_compliance/req-008/todo.md",
+    "prds/001_compliance/req-008/req-008.md"
+  ]
+}

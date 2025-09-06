@@ -1,0 +1,32 @@
+services:
+  app:
+    build:
+      args:
+        user: jairo
+        uid: 1000
+      context: ./
+      dockerfile: Dockerfile
+    image: hello-world
+    container_name: hello-world-app
+    restart: unless-stopped
+    working_dir: /var/www/
+    volumes:
+      - ./:/var/www
+    networks:
+      - hello-world
+
+  nginx:
+    image: nginx:alpine
+    container_name: hello-world-nginx
+    restart: unless-stopped
+    ports:
+      - "8000:80"
+    volumes:
+      - ./:/var/www
+      - ./docker/nginx:/etc/nginx/conf.d
+    networks:
+      - hello-world
+
+networks:
+  hello-world:
+    driver: bridge

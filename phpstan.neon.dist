@@ -1,0 +1,19 @@
+includes:
+    - ./vendor/larastan/larastan/extension.neon
+
+parameters:
+    paths:
+        - app
+        - src
+
+    # The level 5 provides a great balance between finding bugs and staying productive.
+    level: 5
+
+    ignoreErrors:
+        # This section can be used to ignore specific, unavoidable errors.
+        # For example, if a package has known issues with static analysis.
+        # - '#Call to an undefined method Illuminate\Database\Eloquent\Builder::whereSomething\(\).#'
+
+    excludePaths:
+        # This section can be used to exclude files from analysis.
+        # - ./*/_ide_helper.php
