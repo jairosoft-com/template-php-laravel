@@ -89,5 +89,5 @@ jobs:
       - name: Run Migrations
         run: php artisan migrate --force
 
-      - name: Run PHPUnit Tests
-        run: ./vendor/bin/phpunit
+      - name: Run Pest Tests
+        run: ./vendor/bin/pest

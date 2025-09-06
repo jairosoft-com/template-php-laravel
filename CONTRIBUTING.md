@@ -1,4 +1,4 @@
-# **Contributing to hello-world**
+# **Contributing to** hello-world
 
 First off, thank you for considering contributing to hello-world. It's people like you that make this project great.
 
@@ -49,9 +49,9 @@ Before submitting a pull request, you **must** run the entire quality assurance 
     ./vendor/bin/phpstan analyse
     ```
 
-3.  **Run Test Suite (PHPUnit):**
+3.  **Run Test Suite (Pest):**
     ```bash
-    ./vendor/bin/phpunit
+    ./vendor/bin/pest
     ```
 
 We use GitHub Actions to run these checks on every pull request. However, running them locally will save you time and ensure a smoother review process.
