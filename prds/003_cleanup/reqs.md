@@ -25,6 +25,7 @@ These files are generated automatically and can be safely deleted.
 
 - `_ide_helper_models.php`: An IDE helper file. It can be regenerated.
 - `storage/debugbar/*.json`: Laravel Debugbar files. They are safe to delete.
+
 - `storage/framework/views/*.php`: Compiled Blade view files. They will be regenerated on the fly.
 
 ## Old PRDs
@@ -33,3 +34,15 @@ These folders contain old Product Requirement Documents that are no longer relev
 
 - `prds/001_compliance/`
 - `prds/002_pest/`
+
+## .gitignore Files in Subdirectories (Informational)
+
+`.gitignore` files found in subdirectories are generally necessary and serve a specific purpose in Git.
+
+They allow for more granular control over which files Git should ignore within that particular directory and its subdirectories. This is useful for:
+
+- **Ignoring generated files:** Like compiled assets, cache files, or logs that are specific to a certain module or part of the application.
+- **Ignoring user-specific files:** Such as IDE configuration files or temporary files that should not be committed to the repository.
+- **Overriding global `.gitignore` rules:** A `.gitignore` file in a subdirectory can override rules defined in a parent directory's `.gitignore` or the global `.gitignore` file.
+
+Removing them could lead to unwanted files being tracked and committed to your Git repository.
